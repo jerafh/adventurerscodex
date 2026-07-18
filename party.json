@@ -1,0 +1,28 @@
+{
+  "npcweb": {
+    "positions": {
+      "the-helpful-innkeeper": {
+        "x": 1881,
+        "y": 1379
+      },
+      "the-rival-adventurer": {
+        "x": 1897,
+        "y": 1247
+      },
+      "the-faction-envoy": {
+        "x": 2010,
+        "y": 1427
+      },
+      "the-hidden-villain": {
+        "x": 1718,
+        "y": 1324
+      },
+      "the-local-sage": {
+        "x": 2037,
+        "y": 1283
+      }
+    },
+    "edges": []
+  },
+  "updatedAt": "2026-07-18T01:52:22.574Z"
+}
