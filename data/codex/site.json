@@ -4,7 +4,7 @@
   "campaignSubtitle": "A Tabletop RPG Campaign",
   "tagline": "A Tale of Life and Death",
   "welcome": "Welcome to",
-  "description": "Replace this text in Admin Mode. Introduce your world, your party, your campaign tone, and the reason your players should open this site between sessions.\nXeneth; the Great Continent upon which the Gravewalkers have made their journey. From the bustling concrete jungle of Garden's Gate, to the wild woods of Feyut, and the mighty depths of the Dwarven kingdom of Dundolihd, they have travelled far and wide in search of answers, discovery, and to stop the looming threat of an ancient evil.",
+  "description": "Xeneth; the Great Continent upon which the Gravewalkers have made their journey. From the bustling concrete jungle of Garden's Gate, to the wild woods of Feyut, and the mighty depths of the Dwarven kingdom of Dundolihd, they have travelled far and wide in search of answers, discovery, and to stop the looming threat of an ancient evil.",
   "statusBadge": "Template Ready · Edit in Admin Mode",
   "setupComplete": true,
   "footerBranding": "Powered by The Adventurer’s Campaign Codex",
@@ -14,7 +14,16 @@
     "background": "#17110b",
     "surface": "#241a11",
     "text": "#f2e4c8",
-    "mode": "neutral-fantasy"
+    "mode": "neutral-fantasy",
+    "pageBg": "",
+    "panelBg": "",
+    "textHeading": "",
+    "textBody": "",
+    "textMuted": "",
+    "border": "",
+    "link": "",
+    "buttonBg": "",
+    "buttonText": ""
   },
   "modules": {
     "wikiPages": true,
@@ -114,5 +123,7 @@
     }
   ],
   "productVersion": "1.2.1 Commercial Hardening",
-  "updatedAt": "2026-07-18T01:29:27.117Z"
+  "backgroundImage": "",
+  "heroImage": "",
+  "updatedAt": "2026-07-18T01:38:50.760Z"
 }
