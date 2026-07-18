@@ -1,10 +1,6 @@
 {
   "roster": [
     {
-      "id": "mage",
-      "label": "Mage"
-    },
-    {
       "id": "ranger",
       "label": "Ranger"
     },
@@ -33,5 +29,5 @@
       "label": "Doctor"
     }
   ],
-  "updatedAt": "2026-07-18T01:38:12.036Z"
+  "updatedAt": "2026-07-18T01:38:15.041Z"
 }
