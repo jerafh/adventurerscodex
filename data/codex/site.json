@@ -1,0 +1,118 @@
+{
+  "productName": "The Adventurer’s Campaign Codex",
+  "campaignName": "The Gravewalkers",
+  "campaignSubtitle": "A Tabletop RPG Campaign",
+  "tagline": "A Tale of Life and Death",
+  "welcome": "Welcome to",
+  "description": "Replace this text in Admin Mode. Introduce your world, your party, your campaign tone, and the reason your players should open this site between sessions.\nXeneth; the Great Continent upon which the Gravewalkers have made their journey. From the bustling concrete jungle of Garden's Gate, to the wild woods of Feyut, and the mighty depths of the Dwarven kingdom of Dundolihd, they have travelled far and wide in search of answers, discovery, and to stop the looming threat of an ancient evil.",
+  "statusBadge": "Template Ready · Edit in Admin Mode",
+  "setupComplete": true,
+  "footerBranding": "Powered by The Adventurer’s Campaign Codex",
+  "theme": {
+    "accent": "#f2ca02",
+    "secondary": "#8f5f2e",
+    "background": "#17110b",
+    "surface": "#241a11",
+    "text": "#f2e4c8",
+    "mode": "neutral-fantasy"
+  },
+  "modules": {
+    "wikiPages": true,
+    "advancedCharacterSystem": false,
+    "combatMode": true,
+    "threeDDice": true,
+    "partyInventory": true,
+    "awards": true,
+    "starsWishes": true,
+    "worldAtlas": true,
+    "gallery": true,
+    "npcDirectory": true,
+    "sessionNotes": true
+  },
+  "homeCards": [
+    {
+      "title": "Characters",
+      "text": "Character sheets, inventory, combat tools, customization, imports, and custom 3D dice.",
+      "icon": "⚔",
+      "image": "characters_card.jpg",
+      "page": "party",
+      "cta": "View Characters ↗"
+    },
+    {
+      "title": "Powers",
+      "text": "Gods, factions, patrons, guilds, empires, and the forces moving behind the screen.",
+      "icon": "♜",
+      "image": "gods_card.jpg",
+      "page": "four-gods",
+      "cta": "View Powers ↗"
+    },
+    {
+      "title": "Atlas",
+      "text": "Maps for worlds, cities, regions, planes, dungeons, and private DM notes.",
+      "icon": "⌖",
+      "image": "atlas-maps/world-map-placeholder.jpg",
+      "page": "atlas",
+      "cta": "View Atlas ↗"
+    },
+    {
+      "title": "Items",
+      "text": "Relics, treasure, artifacts, attunement notes, item art, and party loot.",
+      "icon": "✥",
+      "image": "artifacts_card.jpg",
+      "page": "items",
+      "cta": "View Items ↗"
+    },
+    {
+      "title": "Story",
+      "text": "Session history, major arcs, turning points, consequences, and campaign records.",
+      "icon": "✷",
+      "image": "events_card.jpg",
+      "page": "story",
+      "cta": "View Story ↗"
+    },
+    {
+      "title": "Gallery",
+      "text": "Campaign art, battle maps, handouts, portraits, screenshots, and table memories.",
+      "icon": "△",
+      "image": "gallery_card.jpg",
+      "page": "gallery",
+      "cta": "View Gallery ↗"
+    }
+  ],
+  "characters": [
+    {
+      "id": "warrior",
+      "name": "Ethtis",
+      "player": "E",
+      "sigil": "Shield",
+      "accent": "#b07a38",
+      "portrait": "uploads/placeholders/sample-warrior.jpg"
+    },
+    {
+      "id": "mage",
+      "name": "Nixe",
+      "player": "S",
+      "sigil": "Arcana",
+      "accent": "#9c6a3a",
+      "portrait": "uploads/placeholders/sample-mage.jpg"
+    },
+    {
+      "id": "ranger",
+      "name": "Romerta",
+      "player": "M",
+      "sigil": "Trail",
+      "accent": "#8a7a3a",
+      "portrait": "uploads/placeholders/sample-ranger.jpg"
+    },
+    {
+      "id": "cleric",
+      "name": "Vaylan",
+      "player": "D",
+      "sigil": "Oath",
+      "accent": "#a8844a",
+      "portrait": "uploads/placeholders/sample-cleric.jpg"
+    }
+  ],
+  "productVersion": "1.2.1 Commercial Hardening",
+  "updatedAt": "2026-07-18T01:29:27.117Z"
+}
