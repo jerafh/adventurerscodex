@@ -1,0 +1,25 @@
+{
+  "roster": [
+    {
+      "id": "warrior",
+      "label": "Warrior"
+    },
+    {
+      "id": "mage",
+      "label": "Mage"
+    },
+    {
+      "id": "ranger",
+      "label": "Ranger"
+    },
+    {
+      "id": "cleric",
+      "label": "Cleric"
+    },
+    {
+      "id": "flip",
+      "label": "Flip"
+    }
+  ],
+  "updatedAt": "2026-07-18T01:37:26.146Z"
+}
