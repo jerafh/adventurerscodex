@@ -19,7 +19,11 @@
     {
       "id": "flip",
       "label": "Flip"
+    },
+    {
+      "id": "ethtis",
+      "label": "Ethtis"
     }
   ],
-  "updatedAt": "2026-07-18T01:37:26.146Z"
+  "updatedAt": "2026-07-18T01:37:33.827Z"
 }
