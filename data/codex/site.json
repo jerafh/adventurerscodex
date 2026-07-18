@@ -90,40 +90,56 @@
   ],
   "characters": [
     {
-      "id": "warrior",
+      "id": "flip",
+      "name": "Flip",
+      "player": "Alex",
+      "sigil": "",
+      "accent": "#000000",
+      "portrait": "https://raw.githubusercontent.com/jerafh/adventurerscodex/main/uploads/site/1784341219033-flip-the-kenku-portrait.jpg?v=1784341220524"
+    },
+    {
+      "id": "ethtis",
       "name": "Ethtis",
-      "player": "E",
-      "sigil": "Shield",
-      "accent": "#b07a38",
-      "portrait": "uploads/placeholders/sample-warrior.jpg"
+      "player": "Elizabeth",
+      "sigil": "",
+      "accent": "#000000",
+      "portrait": "https://raw.githubusercontent.com/jerafh/adventurerscodex/main/uploads/site/1784341223709-ethtis-ushirith-portrait.jpg?v=1784341224853"
     },
     {
-      "id": "mage",
+      "id": "nixe",
       "name": "Nixe",
-      "player": "S",
-      "sigil": "Arcana",
-      "accent": "#9c6a3a",
-      "portrait": "uploads/placeholders/sample-mage.jpg"
+      "player": "Sarah",
+      "sigil": "",
+      "accent": "#000000",
+      "portrait": "https://raw.githubusercontent.com/jerafh/adventurerscodex/main/uploads/site/1784341228400-nixe-portrait.jpg?v=1784341229623"
     },
     {
-      "id": "ranger",
+      "id": "romerta",
       "name": "Romerta",
-      "player": "M",
-      "sigil": "Trail",
-      "accent": "#8a7a3a",
-      "portrait": "uploads/placeholders/sample-ranger.jpg"
+      "player": "Maggie",
+      "sigil": "",
+      "accent": "#000000",
+      "portrait": "https://raw.githubusercontent.com/jerafh/adventurerscodex/main/uploads/site/1784341232035-romerta-portrait.jpg?v=1784341232918"
     },
     {
-      "id": "cleric",
+      "id": "vaylan",
       "name": "Vaylan",
-      "player": "D",
-      "sigil": "Oath",
-      "accent": "#a8844a",
-      "portrait": "uploads/placeholders/sample-cleric.jpg"
+      "player": "Declan",
+      "sigil": "",
+      "accent": "#000000",
+      "portrait": "https://raw.githubusercontent.com/jerafh/adventurerscodex/main/uploads/site/1784341236308-grimm-raspe-portrait.jpg?v=1784341237419"
+    },
+    {
+      "id": "doctor",
+      "name": "Doctor",
+      "player": "Uriah",
+      "sigil": "",
+      "accent": "#000000",
+      "portrait": ""
     }
   ],
   "productVersion": "1.2.1 Commercial Hardening",
   "backgroundImage": "",
   "heroImage": "",
-  "updatedAt": "2026-07-18T01:38:50.760Z"
+  "updatedAt": "2026-07-18T02:20:41.391Z"
 }
