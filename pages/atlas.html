@@ -9,14 +9,18 @@
           <span class="sr-only">Search maps and locations</span>
           <input id="atlas-search" class="atlas-search" type="search" placeholder="Search maps and locations" data-action="atlas-search">
         </label>
-       
+        <button class="atlas-chip active" type="button" data-atlas-type="all">All</button>
+        <button class="atlas-chip" type="button" data-atlas-type="world">Worlds</button>
+        <button class="atlas-chip" type="button" data-atlas-type="divine">Realms</button>
+        <button class="atlas-chip" type="button" data-atlas-type="harsh">Dangerous</button>
+        <button class="atlas-chip" type="button" data-action="atlas-index">Map index</button>
+      </div>
     </header>
 
     <section id="atlas-universal" class="universal-stage" aria-label="Campaign map index">
     </section>
 
     <div id="atlas-interactive"></div>
-    <div id="atlas-grid" class="atlas-grid"></div>
     <div id="atlas-empty" class="empty-state" hidden>No atlas entries matched that search.</div>
     <div id="atlas-viewer" class="atlas-viewer"></div>
   </div>
