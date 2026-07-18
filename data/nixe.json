@@ -1,0 +1,33 @@
+{
+  "character": {
+    "name": "Nixe",
+    "epithet": "",
+    "portrait": "",
+    "player": "",
+    "race": "",
+    "charClass": "",
+    "alignment": "",
+    "status": "Active",
+    "location": "",
+    "godForm": "",
+    "worldLevels": [],
+    "biography": "",
+    "accomplishments": [],
+    "items": [],
+    "relationships": [],
+    "quotes": [],
+    "footerQuote": "",
+    "coreStats": {
+      "str": "",
+      "dex": "",
+      "con": "",
+      "int": "",
+      "wis": "",
+      "cha": ""
+    },
+    "combatAbilities": [],
+    "divineResources": [],
+    "spellbook": []
+  },
+  "updatedAt": "2026-07-18T01:37:42.187Z"
+}
