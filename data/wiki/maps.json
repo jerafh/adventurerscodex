@@ -1,21 +1,3 @@
 {
-  "maps": [
-    {
-      "id": "map-mrr7yml58518i",
-      "name": "Krynn",
-      "title": "Krynn",
-      "type": "world",
-      "image": "https://raw.githubusercontent.com/jerafh/adventurerscodex/main/uploads/maps/atlas-1784430691286.jpg?v=1784430693015",
-      "width": 2400,
-      "height": 1224,
-      "parentMapId": "",
-      "parentPinId": "",
-      "description": "",
-      "defaultView": null,
-      "lore": {},
-      "loreHiddenFields": [],
-      "loreSections": [],
-      "pins": []
-    }
-  ]
+  "maps": []
 }
