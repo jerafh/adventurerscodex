@@ -1,16 +1,10 @@
 {
-  "custom": [
-    {
-      "id": "c-symbols",
-      "title": "symbols",
-      "parent": "four-gods"
-    }
-  ],
+  "custom": [],
   "overrides": [
     "atlas",
     "lesser-gods",
     "scripture",
     "four-gods"
   ],
-  "updatedAt": "2026-07-19T03:07:53.797Z"
+  "updatedAt": "2026-07-19T03:08:36.226Z"
 }
