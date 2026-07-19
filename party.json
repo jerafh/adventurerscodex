@@ -24,22 +24,10 @@
     },
     "edges": []
   },
-  "updatedAt": "2026-07-19T03:05:32.809Z",
+  "updatedAt": "2026-07-19T03:05:37.039Z",
   "factionweb": {
-    "nodes": [
-      {
-        "id": "knights",
-        "name": "Knights",
-        "tag": "",
-        "status": "Active"
-      }
-    ],
-    "positions": {
-      "knights": {
-        "x": 697,
-        "y": 100
-      }
-    },
+    "nodes": [],
+    "positions": {},
     "edges": []
   }
 }
