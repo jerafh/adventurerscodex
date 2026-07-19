@@ -24,7 +24,7 @@
     },
     "edges": []
   },
-  "updatedAt": "2026-07-19T03:08:16.066Z",
+  "updatedAt": "2026-07-19T03:08:23.418Z",
   "factionweb": {
     "nodes": [],
     "positions": {},
@@ -32,7 +32,17 @@
   },
   "whiteboards": {
     "board-c-symbols": {
-      "cards": []
+      "cards": [
+        {
+          "id": "cmrr7uk2343q",
+          "x": 60,
+          "y": 60,
+          "title": "Feingart",
+          "text": "",
+          "img": "",
+          "label": ""
+        }
+      ]
     }
   }
 }
