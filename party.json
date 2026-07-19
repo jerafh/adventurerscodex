@@ -24,7 +24,7 @@
     },
     "edges": []
   },
-  "updatedAt": "2026-07-19T03:05:29.947Z",
+  "updatedAt": "2026-07-19T03:05:32.809Z",
   "factionweb": {
     "nodes": [
       {
@@ -36,8 +36,8 @@
     ],
     "positions": {
       "knights": {
-        "x": 860,
-        "y": 96
+        "x": 697,
+        "y": 100
       }
     },
     "edges": []
